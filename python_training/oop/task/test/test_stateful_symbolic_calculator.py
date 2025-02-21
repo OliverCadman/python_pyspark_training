@@ -51,8 +51,6 @@ class CalculatorBufferTests(TestCase):
         self.assertEqual(expected_res, res)
 
 
-
-
 if __name__ == "__main__":
     unittest_main()
 
